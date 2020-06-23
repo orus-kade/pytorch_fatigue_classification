@@ -1,0 +1,1 @@
+# pytorch_fatigue_classification
